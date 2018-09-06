@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "sdkVersion": "27.0.0",
+    "androidStatusBar": {
+      "backgroundColor": "#2c3e50"
+    },
+    "name":"AutoCar",
+    "description":"App para el alquiler de autos",
+    "android":{
+      "package":"com.rentcar.autocar"
+    },
+    "slug":"autocar",
+    "version": "1.0.0",
+    "icon": "./app/images/logoFinal.png"
+    
+  }
+  }
+}
